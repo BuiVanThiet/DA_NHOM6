@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="responsiFile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/responsiFile/dom4j-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/poi-excelant-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/poi-scratchpad-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/swing-worker-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/commons-compress-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/jfreechart-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/filters-2.0.235.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/swingx-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/mysql-connector-j-8.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/responsiFile/jcommon-1.0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
